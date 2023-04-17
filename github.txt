@@ -1,0 +1,14 @@
+git clone https://github.com/dlwjdcks2446/shoppingmall.git
+
+끝났을때
+projects>
+git add .
+git commit -m "맘대로"
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+  여기에 이메일과 이름
+
+git commit -m "맘대로"
+
+git push https://github.com/dlwjdcks2446/shoppingmall.git
